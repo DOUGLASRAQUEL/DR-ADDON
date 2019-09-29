@@ -98,5 +98,68 @@
 <ittem>
 
 
+<item>
+<title>[B]TELECINE PIPOCA[/B]</title>
+<link>http://playback.imirun.net:8080/TelecinePipoca/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]TELECINE CULT[/B]</title>
+<link>http://playback.imirun.net:8080//TelecineCult/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]TELECINE PREMIUM[/B]</title>
+<link>http://playback.imirun.net:8080//TelecinePremium/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]TELECINE TOUCH[/B]</title>
+<link>http://playback.imirun.net:8080//TelecineTouch/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]WARNER CHANNEL[/B]</title>
+<link>http://hvod.imirun.net:8080/WarnerChannel/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]TNT SERIES[/B]</title>
+<link>http://playback.imirun.net:8080//TNTSeries/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+
+
+
 
 
