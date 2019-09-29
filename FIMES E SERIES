@@ -158,6 +158,37 @@
 <ittem>
 
 
+<item>
+<title>[B]CINEMAX[/B]</title>
+<link>http://playback.imirun.net:8080/Cinemax-HD/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]ANX[/B]</title>
+<link>http://hvod.imirun.net:8080/AXN-HD/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]A&E[/B]</title>
+<link>http://hvod.imirun.net:8080/A&E-HD/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+
 
 
 
