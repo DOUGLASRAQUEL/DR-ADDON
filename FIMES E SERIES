@@ -1,8 +1,102 @@
 <item>
 <title>[B]AMC[/B]</title>
 <link>http://playback.imirun.net:8080//AMC-HD/tracks-v1a1/mono.m3u8</link>
-<thumbnail>https://ia801402.us.archive.org/17/items/transferir_20190918_1942/transferir.png</thumbnail>
-<fanart>https://ia601402.us.archive.org/17/items/transferir_20190918_1942/transferir.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
 </item>
 <item>
+
+
+<item>
+<title>[B]FOX PREMIUM HD[/B]</title>
+<link>http://hvod.imirun.net:8080/Fox-Premium-1-HD/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<item>
+
+
+<item>
+<title>[B]FOX [/B]</title>
+<link>http://hvod.imirun.net:8080/FOX/index.m3u8 </link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<item>
+
+
+<item>
+<title>[B]HBO 2 [/B]</title>
+<link>http://playback.imirun.net:8080//HBO2/tracks-v1a1/mono.m3u8 </link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<item>
+
+
+<item>
+<title>[B]HBO [/B]</title>
+<link>http://hvod.imirun.net:8080/HBO-HD/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]MAX PRIME[/B]</title>
+<link>http://playback.imirun.net:8080//MaxPrime*eHD/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]MEGA PIX[/B]</title>
+<link>http://hvod.imirun.net:8080/Megapix/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]PARAMOUNT[/B]</title>
+<link>http://hvod.imirun.net:8080/ParamountHD/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]SYFY[/B]</title>
+<link>http://hvod.imirun.net:8080/SyFyHD/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]SPACE[/B]</title>
+<link>http://hvod.imirun.net:8080/SpaceHD/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+
+
