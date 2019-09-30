@@ -1,6 +1,56 @@
 <item>
+<title>[B]A E[/B]</title>
+<link>http://hvod.imirun.net:8080/A&E-HD/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
 <title>[B]AMC[/B]</title>
 <link>http://playback.imirun.net:8080//AMC-HD/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<item>
+
+
+<item>
+<title>[B]ANX[/B]</title>
+<link>http://hvod.imirun.net:8080/AXN-HD/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]CINEMAX[/B]</title>
+<link>http://playback.imirun.net:8080/Cinemax-HD/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]E![/B]</title>
+<link>http://playback.imirun.net:8080//E!HD/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]FOX [/B]</title>
+<link>http://hvod.imirun.net:8080/FOX/index.m3u8 </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
@@ -19,13 +69,13 @@
 
 
 <item>
-<title>[B]FOX [/B]</title>
-<link>http://hvod.imirun.net:8080/FOX/index.m3u8 </link>
+<title>[B]HBO [/B]</title>
+<link>http://hvod.imirun.net:8080/HBO-HD/index.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
 </item>
-<item>
+<ittem>
 
 
 <item>
@@ -36,16 +86,6 @@
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
 </item>
 <item>
-
-
-<item>
-<title>[B]HBO [/B]</title>
-<link>http://hvod.imirun.net:8080/HBO-HD/index.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
-</item>
-<ittem>
 
 
 <item>
@@ -79,16 +119,6 @@
 
 
 <item>
-<title>[B]SYFY[/B]</title>
-<link>http://hvod.imirun.net:8080/SyFyHD/index.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
-</item>
-<ittem>
-
-
-<item>
 <title>[B]SPACE[/B]</title>
 <link>http://hvod.imirun.net:8080/SpaceHD/index.m3u8</link>
 <thumbnail></thumbnail>
@@ -99,8 +129,18 @@
 
 
 <item>
-<title>[B]TELECINE PIPOCA[/B]</title>
-<link>http://playback.imirun.net:8080/TelecinePipoca/tracks-v1a1/mono.m3u8</link>
+<title>[B]SYFY[/B]</title>
+<link>http://hvod.imirun.net:8080/SyFyHD/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]TELECINE ACTION[/B]</title>
+<link>http://playback.imirun.net:8080/TelecineAction/tracks-v1a1/mono.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
@@ -111,6 +151,16 @@
 <item>
 <title>[B]TELECINE CULT[/B]</title>
 <link>http://playback.imirun.net:8080//TelecineCult/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]TELECINE PIPOCA[/B]</title>
+<link>http://playback.imirun.net:8080/TelecinePipoca/tracks-v1a1/mono.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
@@ -139,68 +189,8 @@
 
 
 <item>
-<title>[B]WARNER CHANNEL[/B]</title>
-<link>http://hvod.imirun.net:8080/WarnerChannel/index.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
-</item>
-<ittem>
-
-
-<item>
-<title>[B]TNT SERIES[/B]</title>
-<link>http://playback.imirun.net:8080//TNTSeries/tracks-v1a1/mono.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
-</item>
-<ittem>
-
-
-<item>
-<title>[B]CINEMAX[/B]</title>
-<link>http://playback.imirun.net:8080/Cinemax-HD/tracks-v1a1/mono.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
-</item>
-<ittem>
-
-
-<item>
-<title>[B]ANX[/B]</title>
-<link>http://hvod.imirun.net:8080/AXN-HD/tracks-v1a1/mono.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
-</item>
-<ittem>
-
-
-<item>
-<title>[B]E![/B]</title>
-<link>http://playback.imirun.net:8080//E!HD/tracks-v1a1/mono.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
-</item>
-<ittem>
-
-
-<item>
-<title>[B]TELECINE ACTION[/B]</title>
-<link>http://playback.imirun.net:8080/TelecineAction/tracks-v1a1/mono.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
-</item>
-<ittem>
-
-
-<item>
-<title>[B]TNT[/B]</title>
-<link>http://hvod.imirun.net:8080/TNT-HD/index.m3u8</link>
+<title>[B]TBS[/B]</title>
+<link>http://playback.imirun.net:8080//TBS/tracks-v1a1/mono.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
@@ -219,8 +209,8 @@
 
 
 <item>
-<title>[B]TBS[/B]</title>
-<link>http://playback.imirun.net:8080//TBS/tracks-v1a1/mono.m3u8</link>
+<title>[B]TNT[/B]</title>
+<link>http://hvod.imirun.net:8080/TNT-HD/index.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
@@ -229,13 +219,26 @@
 
 
 <item>
-<title>[B]A E[/B]</title>
-<link>http://hvod.imirun.net:8080/A&E-HD/tracks-v1a1/mono.m3u8</link>
+<title>[B]TNT SERIES[/B]</title>
+<link>http://playback.imirun.net:8080//TNTSeries/tracks-v1a1/mono.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
 </item>
 <ittem>
+
+
+<item>
+<title>[B]WARNER CHANNEL[/B]</title>
+<link>http://hvod.imirun.net:8080/WarnerChannel/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+
 
 
 
