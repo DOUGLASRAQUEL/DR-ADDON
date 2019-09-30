@@ -199,8 +199,8 @@
 
 
 <item>
-<title>[B]A&E[/B]</title>
-<link>http://csrv.tv:80/mila/mila/1907</link>
+<title>[B]TELECINE ACTION[/B]</title>
+<link>http://playback.imirun.net:8080/TelecineAction/tracks-v1a1/mono.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
@@ -209,8 +209,28 @@
 
 
 <item>
-<title>[B]WARNER[/B]</title>
-<link>blob:https://cometa.top/a91aa165-1eb6-4d66-8afb-4b5bec078deb</link>
+<title>[B]TNT[/B]</title>
+<link>http://hvod.imirun.net:8080/TNT-HD/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]TCN[/B]</title>
+<link>http://playback.imirun.net:8080//TCM/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<ittem>
+
+
+<item>
+<title>[B]TBS[/B]</title>
+<link>http://playback.imirun.net:8080//TBS/tracks-v1a1/mono.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
