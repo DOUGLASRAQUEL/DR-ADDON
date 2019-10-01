@@ -1,4 +1,15 @@
 <item>
+<title>[B]ALL SPORTS TV[/B]</title>
+<link>http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<item>
+
+
+<item>
 <title>[B]BAND SPORTS[/B]</title>
 <link>http://hvod.imirun.net:8080/Band-Sports/index.m3u8</link>
 <thumbnail></thumbnail>
@@ -26,6 +37,15 @@
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
 </item>
 <item>
+
+
+<item>
+<title>[B]E I PLUS[/B]</title>
+<link>http://bitly.com:80/esporteinterativo-1hd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
 
 
 <item>
@@ -64,4 +84,4 @@
 <fanart></fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
 </item>
-<item
+<item>
