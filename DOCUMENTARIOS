@@ -9,6 +9,16 @@
 
 
 <item>
+<title>[B]DISCOVERY THEATER[/B]</title>
+<link>http://playback.imirun.net:8080//DiscoveryTheater-HD/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<item>
+
+
+<item>
 <title>[B]DISCOVERY TURBO[/B]</title>
 <link>http://hvod.imirun.net:8080/DiscoveryTurbo-HD/tracks-v1a1/mono.m3u8</link>
 <thumbnail></thumbnail>
