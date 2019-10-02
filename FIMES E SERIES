@@ -1,6 +1,6 @@
 <item>
 <title>[B]A E[/B]</title>
-<link>http://hvod.imirun.net:8080/A&E-HD/tracks-v1a1/mono.m3u8</link>
+<link>http://edge.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_2b33f912e447dee05c6068317dadf64ab3bf0373/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
@@ -10,7 +10,7 @@
 
 <item>
 <title>[B]AMC[/B]</title>
-<link>http://playback.imirun.net:8080//AMC-HD/tracks-v1a1/mono.m3u8</link>
+<link>http://edge.aovivo.club/hls/s:45.32.217.66/amcbrasil_b7f5113f_2b0a883f277cf24adfda9664f07324fded061f0d/410p/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
