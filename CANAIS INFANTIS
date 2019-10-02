@@ -18,6 +18,17 @@
 <item>
 
 
+<item><item>
+<title>[B]DISNEY CHANNEL[/B]</title>
+<link>http://hvod.imirun.net:8080/DisneyChannel/tracks-v1a1/mono.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
+</item>
+<item>
+
+
+
 <item>
 <title>[B]DISNEY JUNIOR[/B]</title>
 <link>http://playback.imirun.net:8080//DisneyJunior/tracks-v1a1/mono.m3u8</link>
