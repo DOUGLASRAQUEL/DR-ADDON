@@ -240,7 +240,7 @@
 
 <item>
 <title>[B]TELECINE PREMIUM[/B]</title>
-<link>http://playback.imirun.net:8080//TelecinePremium/tracks-v1a1/mono.m3u8</link>
+<link>https://cdnfe1.azureedge.net/hls1/telecinepremium.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDE5IDc6MTI6MTEgUE0maGFzaF92YWx1ZT1GRjZkVWxqRFk2SGVKQ2IzdCszR3J3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
