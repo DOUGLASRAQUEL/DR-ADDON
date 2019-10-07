@@ -10,7 +10,7 @@
 
 <item>
 <title>[B]AMC[/B]</title>
-<link>http://edge.aovivo.club/hls/s:155.138.226.22/amcbrasil_b7f5113f_1ea67cd6eaa34d459fe5f7650f92684e248da611/410p/chunklist.m3u8</link>
+<link>http://hvod.imirun.net:8080/AMC-HD/index.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]DR ADDON[/B][/COLOR].</info>
@@ -19,7 +19,7 @@
 
 
 <item>
-<title>[B]ANX[/B]</title>
+<title>[B]AXN[/B]</title>
 <link>http://hvod.imirun.net:8080/AXN-HD/tracks-v1a1/mono.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
