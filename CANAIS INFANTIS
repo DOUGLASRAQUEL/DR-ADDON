@@ -98,8 +98,13 @@
 <item>
 
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/cartoons/avataraang.jpg"group-title="Avatar: A lenda de Aang", E20
-http://hel.lhmtv.gq/play/?contentId=559da9c34f6e6cb9&LHMTv
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SO DESENHOS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>
 
 
 
